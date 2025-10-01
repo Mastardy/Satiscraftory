@@ -1,0 +1,8 @@
+{
+  "itemGroup.mod_id": "Satiscraftory",
+
+  "item.satiscraftory.iron_rod": "Iron Rod",
+  "item.satiscraftory.iron_plate": "Iron Plate",
+  "block.satiscraftory.crafting_bench": "Crafting Bench",
+  "itemTooltip.satiscraftory.iron_rod": "This is a fancy Iron Rod!"
+}

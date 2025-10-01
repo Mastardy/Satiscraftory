@@ -1,0 +1,9 @@
+{
+  "type": "satiscraftory:crafting_bench",
+  "ingredient": "minecraft:iron_ingot",
+  "count": 3,
+  "result": {
+    "id": "satiscraftory:iron_plate",
+    "count": 2
+  }
+}
